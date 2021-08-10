@@ -1,0 +1,6 @@
+name: Schleimer
+version: ${project.version}
+main: one.laqua.schleimer.Schleimer
+api-version: 1.17
+authors: [ "Matthieu Laqua" ]
+description: Provides means to find out if a chunk is a slime chunk
